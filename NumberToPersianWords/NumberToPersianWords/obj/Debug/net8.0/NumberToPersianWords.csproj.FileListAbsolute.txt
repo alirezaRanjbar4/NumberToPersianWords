@@ -1,0 +1,14 @@
+C:\Users\rangbar.a\source\repos\NumberToPersianWords\NumberToPersianWords\bin\Debug\net8.0\NumberToPersianWords.exe
+C:\Users\rangbar.a\source\repos\NumberToPersianWords\NumberToPersianWords\bin\Debug\net8.0\NumberToPersianWords.deps.json
+C:\Users\rangbar.a\source\repos\NumberToPersianWords\NumberToPersianWords\bin\Debug\net8.0\NumberToPersianWords.runtimeconfig.json
+C:\Users\rangbar.a\source\repos\NumberToPersianWords\NumberToPersianWords\bin\Debug\net8.0\NumberToPersianWords.dll
+C:\Users\rangbar.a\source\repos\NumberToPersianWords\NumberToPersianWords\bin\Debug\net8.0\NumberToPersianWords.pdb
+C:\Users\rangbar.a\source\repos\NumberToPersianWords\NumberToPersianWords\obj\Debug\net8.0\NumberToPersianWords.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rangbar.a\source\repos\NumberToPersianWords\NumberToPersianWords\obj\Debug\net8.0\NumberToPersianWords.AssemblyInfoInputs.cache
+C:\Users\rangbar.a\source\repos\NumberToPersianWords\NumberToPersianWords\obj\Debug\net8.0\NumberToPersianWords.AssemblyInfo.cs
+C:\Users\rangbar.a\source\repos\NumberToPersianWords\NumberToPersianWords\obj\Debug\net8.0\NumberToPersianWords.csproj.CoreCompileInputs.cache
+C:\Users\rangbar.a\source\repos\NumberToPersianWords\NumberToPersianWords\obj\Debug\net8.0\NumberToPersianWords.dll
+C:\Users\rangbar.a\source\repos\NumberToPersianWords\NumberToPersianWords\obj\Debug\net8.0\refint\NumberToPersianWords.dll
+C:\Users\rangbar.a\source\repos\NumberToPersianWords\NumberToPersianWords\obj\Debug\net8.0\NumberToPersianWords.pdb
+C:\Users\rangbar.a\source\repos\NumberToPersianWords\NumberToPersianWords\obj\Debug\net8.0\NumberToPersianWords.genruntimeconfig.cache
+C:\Users\rangbar.a\source\repos\NumberToPersianWords\NumberToPersianWords\obj\Debug\net8.0\ref\NumberToPersianWords.dll
